@@ -7,6 +7,10 @@
     android:orientation="vertical"
     tools:context="ro.pub.cs.systems.eim.lab03.phonedialer.view.PhoneDialerActivity">
 
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="64dp"/>
+
     <EditText
         android:id="@+id/phone_number_edit_text"
         android:layout_width="match_parent"
